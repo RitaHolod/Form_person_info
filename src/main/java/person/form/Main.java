@@ -1,7 +1,7 @@
 package person.form;
 
 public class Main {
-    public static void main (String[] args){
+    public static void main(String[] args) {
         Post post = new Post();
         post.name = "Рита";
         post.passport = "4568 №123456";
