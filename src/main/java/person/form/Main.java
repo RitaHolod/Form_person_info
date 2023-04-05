@@ -9,5 +9,10 @@ public class Main {
         post.phone = "986_901_05_60";
         post.surname = "Мингазова";
         post.subscription = true;
+
+        post.birthday = new FormDate();
+        post.birthday.day = 21;
+        post.birthday.month = 6;
+        post.birthday.year = 1994;
     }
 }
